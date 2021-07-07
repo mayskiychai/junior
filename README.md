@@ -3,7 +3,7 @@
 **Задача 1 "Вызвать alert" по теме 2.1 Привет мир!**
 <br>
  >Создайте страницу, которая отобразит сообщение «Я JavaScript!».<br>
-Решение: [task1.html](https://mayskiychai.github.io/junior/task1/call_alert.html)    [ссылка_на_task1.html_на_гитхабе](https://github.com/mayskiychai/junior/blob/main/task1/call_alert.html)
+Решение: <br>[task1.html](https://mayskiychai.github.io/junior/task1/call_alert.html)    <br>[ссылка_на_task1.html_на_гитхабе](https://github.com/mayskiychai/junior/blob/main/task1/call_alert.html)
 
 **Задача 2 "Покажите сообщение с помощью внешнего скрипта" по теме 2.1 Привет мир!**
 <br>

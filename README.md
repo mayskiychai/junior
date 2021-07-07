@@ -30,7 +30,11 @@
 **Задача 4 "Придумайте правильные имена" по теме 2.4 Переменные**
 <br>
 >1. Создайте переменную для названия нашей планеты. Как бы вы её назвали?
->2. Создайте переменную для хранения имени текущего посетителя сайта. Как бы вы назвали такую переменную? 
+>2. Создайте переменную для хранения имени текущего посетителя сайта. Как бы вы назвали такую переменную?<br>
+Решение: 
+<br>[страница.html](https://mayskiychai.github.io/junior/task4/correctName.html)
+<br>[папка с файлами](https://github.com/mayskiychai/junior/tree/main/task4)
+<br>[script.js](https://github.com/mayskiychai/junior/blob/main/task4/script.js) &nbsp;&nbsp; [текст.html](https://github.com/mayskiychai/junior/blob/main/task4/correctName.html) 
 
 **Задача 5 "Какие буквы (заглавные или строчные) использовать для имён констант?" по теме 2.4 Переменные**
 <br>

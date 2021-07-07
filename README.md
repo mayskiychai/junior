@@ -9,7 +9,7 @@
 
 **Задача 2 "Покажите сообщение с помощью внешнего скрипта" по теме 2.1 Привет мир!**
 <br>
->Возьмите решение предыдущей задачи Вызвать alert, и измените его. Извлеките содержимое скрипта во внешний файл alert.js, лежащий в той же папке.<br>
+>Возьмите решение предыдущей задачи *Вызвать alert*, и измените его. Извлеките содержимое скрипта во внешний файл alert.js, лежащий в той же папке.<br>
 Решение: 
 <br>[страница.html](https://mayskiychai.github.io/junior/task2/outscript.html)    
 [alert.js](https://github.com/mayskiychai/junior/blob/main/task2/alert.js) &nbsp;&nbsp; [текст.html](https://github.com/mayskiychai/junior/blob/main/task2/outscript.html)

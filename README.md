@@ -4,7 +4,8 @@
 <br>
  >Создайте страницу, которая отобразит сообщение «Я JavaScript!».<br>
 Решение: 
-<br>[веб-страница.html](https://mayskiychai.github.io/junior/task1/call_alert.html)    
+<br>[веб-страница.html](https://mayskiychai.github.io/junior/task1/call_alert.html)
+<br>[папка с файлами](https://github.com/mayskiychai/junior/tree/main/task1)
 [текст_программы.html](https://github.com/mayskiychai/junior/blob/main/task1/call_alert.html)
 
 **Задача 2 "Покажите сообщение с помощью внешнего скрипта" по теме 2.1 Привет мир!**

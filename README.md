@@ -3,12 +3,12 @@
 **Задача 1 "Вызвать alert" по теме 2.1 Привет мир!**
 <br>
  >Создайте страницу, которая отобразит сообщение «Я JavaScript!».<br>
-Решение: [task1.html](https://mayskiychai.github.io/junior/task1/call_alert.html)
+Решение: [task1.html](https://mayskiychai.github.io/junior/task1/call_alert.html)    [ссылка на task1.html на гитхабе]()
 
 **Задача 2 "Покажите сообщение с помощью внешнего скрипта" по теме 2.1 Привет мир!**
 <br>
 >Возьмите решение предыдущей задачи Вызвать alert, и измените его. Извлеките содержимое скрипта во внешний файл alert.js, лежащий в той же папке.<br>
-Решение: [task2.html](https://mayskiychai.github.io/junior/task2/outscript.html) [alert.js](https://github.com/mayskiychai/junior/blob/main/task2/alert.js)
+Решение: [task2.html](https://mayskiychai.github.io/junior/task2/outscript.html)    [alert.js](https://github.com/mayskiychai/junior/blob/main/task2/alert.js)
 
 **Задача 3 "Работа с переменными" по теме 2.4 Переменные**
 <br>

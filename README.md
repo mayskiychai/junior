@@ -4,15 +4,15 @@
 <br>
  >Создайте страницу, которая отобразит сообщение «Я JavaScript!».<br>
 Решение: 
-<br>[task1.html](https://mayskiychai.github.io/junior/task1/call_alert.html)    
-[ссылка_на_task1.html_на_гитхабе](https://github.com/mayskiychai/junior/blob/main/task1/call_alert.html)
+<br>[веб-страница](https://mayskiychai.github.io/junior/task1/call_alert.html)    
+[текст_программы.html](https://github.com/mayskiychai/junior/blob/main/task1/call_alert.html)
 
 **Задача 2 "Покажите сообщение с помощью внешнего скрипта" по теме 2.1 Привет мир!**
 <br>
 >Возьмите решение предыдущей задачи Вызвать alert, и измените его. Извлеките содержимое скрипта во внешний файл alert.js, лежащий в той же папке.<br>
 Решение: 
-<br>[task2.html](https://mayskiychai.github.io/junior/task2/outscript.html)    
-[alert.js](https://github.com/mayskiychai/junior/blob/main/task2/alert.js) [на_гитхабе.html](https://github.com/mayskiychai/junior/blob/main/task2/outscript.html)
+<br>[страница.html](https://mayskiychai.github.io/junior/task2/outscript.html)    
+[alert.js](https://github.com/mayskiychai/junior/blob/main/task2/alert.js) &nbsp;&nbsp;&nbsp; [текст.html](https://github.com/mayskiychai/junior/blob/main/task2/outscript.html)
 
 **Задача 3 "Работа с переменными" по теме 2.4 Переменные**
 <br>

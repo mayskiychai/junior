@@ -22,6 +22,10 @@
 >2. Запишите строку "Джон" в переменную name.
 >3. Скопируйте значение из переменной name в admin.
 >4. Выведите на экран значение admin, используя функцию alert (должна показать «Джон»). 
+Решение: 
+<br>[страница.html](https://mayskiychai.github.io/junior/task3/variable.html)
+<br>[папка с файлами](https://github.com/mayskiychai/junior/tree/main/task3)
+<br>[script.js](https://github.com/mayskiychai/junior/blob/main/task2/script.js) &nbsp;&nbsp; [текст.html](https://github.com/mayskiychai/junior/blob/main/task3/variable.html)
 
 **Задача 4 "Придумайте правильные имена" по теме 2.4 Переменные**
 <br>

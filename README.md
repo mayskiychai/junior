@@ -12,7 +12,7 @@
 <br>
 >Возьмите решение предыдущей задачи *Вызвать alert*, и измените его. Извлеките содержимое скрипта во внешний файл alert.js, лежащий в той же папке.<br>
 * Решение: 
-<br>[веб-страница.html](https://mayskiychai.github.io/junior/task2/outscript.html)
+<br>[веб-страница.html](https://mayskiychai.github.io/junior/task2/index.html)
 <br>[папка с файлами](https://github.com/mayskiychai/junior/tree/main/task2)
 <br>[outScriptAlert.js](https://github.com/mayskiychai/junior/blob/main/task2/outScriptAlert.js) &nbsp;&nbsp; [текст.html](https://github.com/mayskiychai/junior/blob/main/task2/index.html) (В последующих задачах скрипт подключается аналогично)
 

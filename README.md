@@ -55,5 +55,6 @@
 >>alert( `hello ${"name"}` ); // ?<br>
 >>alert( `hello ${name}` ); // ?<br>
 * Решение: 
-<br>[currentName.js](https://github.com/mayskiychai/junior/blob/main/task4/correctName.js)
-<br>[папка с файлами](https://github.com/mayskiychai/junior/tree/main/task4)
+<br>[веб-страница.html](https://mayskiychai.github.io/junior/task6/index.html)
+<br>[templateString.js](https://github.com/mayskiychai/junior/blob/main/task6/templateString.js)
+<br>[папка с файлами](https://github.com/mayskiychai/junior/tree/main/task6)

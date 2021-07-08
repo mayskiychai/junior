@@ -88,6 +88,27 @@
 <br>[result.js](https://github.com/mayskiychai/junior/blob/main/task9/result.js)
 <br>[папка с файлами](https://github.com/mayskiychai/junior/tree/main/task9)
 
-
+**Задача 10 "Преобразование типов" по теме 2.8 Базовые операторы, математика**
+<br>
+>Какой результат будет у выражений ниже?<br>
+>>"" + 1 + 0<br>
+>>"" - 1 + 0<br>
+>>true + false<br>
+>>6 / "3"<br>
+>>"2" * "3"<br>
+>>4 + 5 + "px"<br>
+>>"$" + 4 + 5<br>
+>>"4" - 2<br>
+>>"4px" - 2<br>
+>>7 / 0<br>
+>>"  -9  " + 5<br>
+>>"  -9  " - 5<br>
+>>null + 1<br>
+>>undefined + 1<br>
+>>" \t \n" - 2<br>
+* Решение: 
+<br>[веб-страница.html](https://mayskiychai.github.io/junior/task10/index.html)
+<br>[conversion.js](https://github.com/mayskiychai/junior/blob/main/task10/conversion.js)
+<br>[папка с файлами](https://github.com/mayskiychai/junior/tree/main/task10)
 
 

@@ -51,9 +51,9 @@
 <br>
 >Что выведет этот скрипт?
 >>let name = "Ilya";<br>
->>alert( `hello ${1}` ); // ?<br>
->>alert( `hello ${"name"}` ); // ?<br>
->>alert( `hello ${name}` ); // ?<br>
+>>alert( 'hello ${1}' ); // ?<br>
+>>alert( 'hello ${"name"}' ); // ?<br>
+>>alert( 'hello ${name}' ); // ?<br>
 * Решение: 
 <br>[веб-страница.html](https://mayskiychai.github.io/junior/task6/index.html)
 <br>[templateString.js](https://github.com/mayskiychai/junior/blob/main/task6/templateString.js)

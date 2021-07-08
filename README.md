@@ -24,8 +24,8 @@
 >4. Выведите на экран значение admin, используя функцию alert (должна показать «Джон»).<br>
 * Решение: 
 <br>[веб-страница.html](https://mayskiychai.github.io/junior/task3/index.html)
-<br>[папка с файлами](https://github.com/mayskiychai/junior/tree/main/task3)
 <br>[variable.js](https://github.com/mayskiychai/junior/blob/main/task3/variable.js)
+<br>[папка с файлами](https://github.com/mayskiychai/junior/tree/main/task3)
 
 **Задача 4 "Придумайте правильные имена" по теме 2.4 Переменные**
 <br>

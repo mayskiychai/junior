@@ -67,3 +67,13 @@
 <br>[simplePage.js](https://github.com/mayskiychai/junior/blob/main/task7/simplePage.js)
 <br>[папка с файлами](https://github.com/mayskiychai/junior/tree/main/task7)
 
+**Задача 8 "Постфиксная и префиксная формы" по теме 2.8 Базовые операторы, математика**
+<br>
+>Чему будут равны переменные a, b, c и d в примере ниже?<br>
+>>let a = 1, b = 1;<br>
+>>let c = ++a; // ?<br>
+>>let d = b++; // ?<br>
+* Решение: 
+<br>[веб-страница.html](https://mayskiychai.github.io/junior/task8/index.html)
+<br>[postPrefForms.js](https://github.com/mayskiychai/junior/blob/main/task8/postPrefForms.js)
+<br>[папка с файлами](https://github.com/mayskiychai/junior/tree/main/task8)

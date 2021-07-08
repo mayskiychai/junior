@@ -12,9 +12,9 @@
 <br>
 >Возьмите решение предыдущей задачи *Вызвать alert*, и измените его. Извлеките содержимое скрипта во внешний файл alert.js, лежащий в той же папке.<br>
 * Решение: 
-<br>[страница.html](https://mayskiychai.github.io/junior/task2/outscript.html)
+<br>[веб-страница.html](https://mayskiychai.github.io/junior/task2/outscript.html)
 <br>[папка с файлами](https://github.com/mayskiychai/junior/tree/main/task2)
-<br>[outScriptAlert.js](https://github.com/mayskiychai/junior/blob/main/task2/outScriptAlert.js) &nbsp;&nbsp; [текст.html](https://github.com/mayskiychai/junior/blob/main/task2/index.html)
+<br>[outScriptAlert.js](https://github.com/mayskiychai/junior/blob/main/task2/outScriptAlert.js) &nbsp;&nbsp; [текст.html](https://github.com/mayskiychai/junior/blob/main/task2/index.html) (В последующих задачах скрипт подключается аналогично)
 
 **Задача 3 "Работа с переменными" по теме 2.4 Переменные**
 <br>
@@ -23,7 +23,7 @@
 >3. Скопируйте значение из переменной name в admin.
 >4. Выведите на экран значение admin, используя функцию alert (должна показать «Джон»).<br>
 * Решение: 
-<br>[страница.html](https://mayskiychai.github.io/junior/task3/index.html)
+<br>[веб-страница.html](https://mayskiychai.github.io/junior/task3/index.html)
 <br>[папка с файлами](https://github.com/mayskiychai/junior/tree/main/task3)
 <br>[variable.js](https://github.com/mayskiychai/junior/blob/main/task3/variable.js) &nbsp;&nbsp; [текст.html](https://github.com/mayskiychai/junior/blob/main/task3/index.html)
 

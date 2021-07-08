@@ -111,4 +111,12 @@
 <br>[conversion.js](https://github.com/mayskiychai/junior/blob/main/task10/conversion.js)
 <br>[папка с файлами](https://github.com/mayskiychai/junior/tree/main/task10)
 
-
+**Задача 11 "Исправьте сложение" по теме 2.8 Базовые операторы, математика**
+<br>
+>Ниже приведён код, который запрашивает у пользователя два числа и показывает их сумму.<br>
+>Он работает неправильно. Код в примере выводит 12 (для значения полей по умолчанию).<br>
+>В чём ошибка? Исправьте её. Результат должен быть 3.<br>
+* Решение: 
+<br>[веб-страница.html](https://mayskiychai.github.io/junior/task11/index.html)
+<br>[fix.js](https://github.com/mayskiychai/junior/blob/main/task11/fix.js)
+<br>[папка с файлами](https://github.com/mayskiychai/junior/tree/main/task11)

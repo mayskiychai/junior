@@ -32,9 +32,9 @@
 >1. Создайте переменную для названия нашей планеты. Как бы вы её назвали?
 >2. Создайте переменную для хранения имени текущего посетителя сайта. Как бы вы назвали такую переменную?<br>
 Решение: 
-<br>[script.js](https://github.com/mayskiychai/junior/blob/main/task4/script.js)
+<br>[script.js](https://github.com/mayskiychai/junior/blob/main/task4/correctName.js)
 <br>[папка с файлами](https://github.com/mayskiychai/junior/tree/main/task4)
-<br>[текст.html](https://github.com/mayskiychai/junior/blob/main/task4/correctName.html) 
+<br>[текст.html](https://github.com/mayskiychai/junior/blob/main/task4/index.html) 
 
 **Задача 5 "Какие буквы (заглавные или строчные) использовать для имён констант?" по теме 2.4 Переменные**
 <br>
@@ -43,5 +43,8 @@
 > >const age = someCode(birthday);
 
 >У нас есть константа *birthday*, а также *age*, которая вычисляется при помощи некоторого кода, используя значение из *birthday* (в данном случае детали не имеют значения, поэтому код не рассматривается). <br>
->Можно ли использовать заглавные буквы для имени birthday? А для age? Или одновременно для обеих переменных?
-
+>Можно ли использовать заглавные буквы для имени birthday? А для age? Или одновременно для обеих переменных?<br>
+Решение: 
+<br>[script.js](https://github.com/mayskiychai/junior/blob/main/task5/lowOrUpperCase.js)
+<br>[папка с файлами](https://github.com/mayskiychai/junior/tree/main/task5)
+<br>[текст.html](https://github.com/mayskiychai/junior/blob/main/task5/index.html) 

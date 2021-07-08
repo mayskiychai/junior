@@ -46,3 +46,14 @@
 * Решение: 
 <br>[lowOrUpperCase.js](https://github.com/mayskiychai/junior/blob/main/task5/lowOrUpperCase.js)
 <br>[папка с файлами](https://github.com/mayskiychai/junior/tree/main/task5) 
+
+**Задача 6 "Шаблонные строки" по теме 2.5 Типы данных**
+<br>
+>Что выведет этот скрипт?
+>>let name = "Ilya";
+>>alert( `hello ${1}` ); // ?<br>
+>>alert( `hello ${"name"}` ); // ?<br>
+>>alert( `hello ${name}` ); // ?<br>
+* Решение: 
+<br>[currentName.js](https://github.com/mayskiychai/junior/blob/main/task4/correctName.js)
+<br>[папка с файлами](https://github.com/mayskiychai/junior/tree/main/task4)

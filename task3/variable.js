@@ -1,5 +1,5 @@
 let admin,
     name;
-name = 'Джон';
+name  = 'Джон';
 admin = name;
 alert(admin);

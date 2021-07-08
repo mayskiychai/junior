@@ -3,7 +3,7 @@
 **Задача 1 "Вызвать alert" по теме 2.1 Привет мир!**
 <br>
  >Создайте страницу, которая отобразит сообщение «Я JavaScript!».<br>
-Решение: 
+* Решение: 
 <br>[веб-страница.html](https://mayskiychai.github.io/junior/task1/call_alert.html)
 <br>[папка с файлами](https://github.com/mayskiychai/junior/tree/main/task1)
 <br>[текст_программы.html](https://github.com/mayskiychai/junior/blob/main/task1/call_alert.html)
@@ -11,7 +11,7 @@
 **Задача 2 "Покажите сообщение с помощью внешнего скрипта" по теме 2.1 Привет мир!**
 <br>
 >Возьмите решение предыдущей задачи *Вызвать alert*, и измените его. Извлеките содержимое скрипта во внешний файл alert.js, лежащий в той же папке.<br>
-Решение: 
+* Решение: 
 <br>[страница.html](https://mayskiychai.github.io/junior/task2/outscript.html)
 <br>[папка с файлами](https://github.com/mayskiychai/junior/tree/main/task2)
 <br>[alert.js](https://github.com/mayskiychai/junior/blob/main/task2/outScriptAlert.js) &nbsp;&nbsp; [текст.html](https://github.com/mayskiychai/junior/blob/main/task2/index.html)
@@ -22,7 +22,7 @@
 >2. Запишите строку "Джон" в переменную name.
 >3. Скопируйте значение из переменной name в admin.
 >4. Выведите на экран значение admin, используя функцию alert (должна показать «Джон»).<br>
-Решение: 
+* Решение: 
 <br>[страница.html](https://mayskiychai.github.io/junior/task3/variable.html)
 <br>[папка с файлами](https://github.com/mayskiychai/junior/tree/main/task3)
 <br>[script.js](https://github.com/mayskiychai/junior/blob/main/task3/script.js) &nbsp;&nbsp; [текст.html](https://github.com/mayskiychai/junior/blob/main/task3/variable.html)
@@ -31,7 +31,7 @@
 <br>
 >1. Создайте переменную для названия нашей планеты. Как бы вы её назвали?
 >2. Создайте переменную для хранения имени текущего посетителя сайта. Как бы вы назвали такую переменную?<br>
-Решение: 
+* Решение: 
 <br>[script.js](https://github.com/mayskiychai/junior/blob/main/task4/correctName.js)
 <br>[папка с файлами](https://github.com/mayskiychai/junior/tree/main/task4)
 <br>[текст.html](https://github.com/mayskiychai/junior/blob/main/task4/index.html) 
@@ -44,7 +44,7 @@
 
 >У нас есть константа *birthday*, а также *age*, которая вычисляется при помощи некоторого кода, используя значение из *birthday* (в данном случае детали не имеют значения, поэтому код не рассматривается). <br>
 >Можно ли использовать заглавные буквы для имени birthday? А для age? Или одновременно для обеих переменных?<br>
-Решение: 
+* Решение: 
 <br>[script.js](https://github.com/mayskiychai/junior/blob/main/task5/lowOrUpperCase.js)
 <br>[папка с файлами](https://github.com/mayskiychai/junior/tree/main/task5)
 <br>[текст.html](https://github.com/mayskiychai/junior/blob/main/task5/index.html) 

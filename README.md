@@ -14,7 +14,7 @@
 * Решение: 
 <br>[веб-страница.html](https://mayskiychai.github.io/junior/task2/index.html)
 <br>[папка с файлами](https://github.com/mayskiychai/junior/tree/main/task2)
-<br>[outScriptAlert.js](https://github.com/mayskiychai/junior/blob/main/task2/outScriptAlert.js) &nbsp;&nbsp; [текст.html](https://github.com/mayskiychai/junior/blob/main/task2/index.html) (В последующих задачах скрипт подключается аналогично)
+<br>[outScriptAlert.js](https://github.com/mayskiychai/junior/blob/main/task2/outScriptAlert.js) &nbsp;&nbsp; [текст.html](https://github.com/mayskiychai/junior/blob/main/task2/index.html) &nbsp;(В последующих задачах скрипт подключается аналогично)
 
 **Задача 3 "Работа с переменными" по теме 2.4 Переменные**
 <br>
@@ -25,7 +25,7 @@
 * Решение: 
 <br>[веб-страница.html](https://mayskiychai.github.io/junior/task3/index.html)
 <br>[папка с файлами](https://github.com/mayskiychai/junior/tree/main/task3)
-<br>[variable.js](https://github.com/mayskiychai/junior/blob/main/task3/variable.js) &nbsp;&nbsp; [текст.html](https://github.com/mayskiychai/junior/blob/main/task3/index.html)
+<br>[variable.js](https://github.com/mayskiychai/junior/blob/main/task3/variable.js)
 
 **Задача 4 "Придумайте правильные имена" по теме 2.4 Переменные**
 <br>
@@ -34,7 +34,6 @@
 * Решение: 
 <br>[currentName.js](https://github.com/mayskiychai/junior/blob/main/task4/correctName.js)
 <br>[папка с файлами](https://github.com/mayskiychai/junior/tree/main/task4)
-<br>[текст.html](https://github.com/mayskiychai/junior/blob/main/task4/index.html) 
 
 **Задача 5 "Какие буквы (заглавные или строчные) использовать для имён констант?" по теме 2.4 Переменные**
 <br>
@@ -46,5 +45,4 @@
 >Можно ли использовать заглавные буквы для имени birthday? А для age? Или одновременно для обеих переменных?<br>
 * Решение: 
 <br>[script.js](https://github.com/mayskiychai/junior/blob/main/task5/lowOrUpperCase.js)
-<br>[папка с файлами](https://github.com/mayskiychai/junior/tree/main/task5)
-<br>[текст.html](https://github.com/mayskiychai/junior/blob/main/task5/index.html) 
+<br>[папка с файлами](https://github.com/mayskiychai/junior/tree/main/task5) 

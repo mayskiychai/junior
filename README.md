@@ -58,3 +58,12 @@
 <br>[веб-страница.html](https://mayskiychai.github.io/junior/task6/index.html)
 <br>[templateString.js](https://github.com/mayskiychai/junior/blob/main/task6/templateString.js)
 <br>[папка с файлами](https://github.com/mayskiychai/junior/tree/main/task6)
+
+**Задача 7 "Простая страница" по теме 2.6 Взаимодействие: alert, prompt, confirm**
+<br>
+>Создайте страницу, которая спрашивает имя у пользователя и выводит его.<br>
+* Решение: 
+<br>[веб-страница.html](https://mayskiychai.github.io/junior/task7/index.html)
+<br>[simplePage.js](https://github.com/mayskiychai/junior/blob/main/task7/simplePage.js)
+<br>[папка с файлами](https://github.com/mayskiychai/junior/tree/main/task7)
+

@@ -32,7 +32,7 @@
 >1. Создайте переменную для названия нашей планеты. Как бы вы её назвали?
 >2. Создайте переменную для хранения имени текущего посетителя сайта. Как бы вы назвали такую переменную?<br>
 * Решение: 
-<br>[script.js](https://github.com/mayskiychai/junior/blob/main/task4/correctName.js)
+<br>[currentName.js](https://github.com/mayskiychai/junior/blob/main/task4/correctName.js)
 <br>[папка с файлами](https://github.com/mayskiychai/junior/tree/main/task4)
 <br>[текст.html](https://github.com/mayskiychai/junior/blob/main/task4/index.html) 
 

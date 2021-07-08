@@ -77,3 +77,17 @@
 <br>[веб-страница.html](https://mayskiychai.github.io/junior/task8/index.html)
 <br>[postPrefForms.js](https://github.com/mayskiychai/junior/blob/main/task8/postPrefForms.js)
 <br>[папка с файлами](https://github.com/mayskiychai/junior/tree/main/task8)
+
+**Задача 9 "Результат присваивания" по теме 2.8 Базовые операторы, математика**
+<br>
+>Чему будут равны переменные a и x после исполнения кода в примере ниже?<br>
+>>let a = 2;<br>
+>>let x = 1 + (a *= 2);<br>
+* Решение: 
+<br>[веб-страница.html](https://mayskiychai.github.io/junior/task9/index.html)
+<br>[result.js](https://github.com/mayskiychai/junior/blob/main/task9/result.js)
+<br>[папка с файлами](https://github.com/mayskiychai/junior/tree/main/task9)
+
+
+
+

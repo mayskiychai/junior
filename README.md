@@ -44,5 +44,5 @@
 >У нас есть константа *birthday*, а также *age*, которая вычисляется при помощи некоторого кода, используя значение из *birthday* (в данном случае детали не имеют значения, поэтому код не рассматривается). <br>
 >Можно ли использовать заглавные буквы для имени birthday? А для age? Или одновременно для обеих переменных?<br>
 * Решение: 
-<br>[script.js](https://github.com/mayskiychai/junior/blob/main/task5/lowOrUpperCase.js)
+<br>[lowOrUpperCase.js](https://github.com/mayskiychai/junior/blob/main/task5/lowOrUpperCase.js)
 <br>[папка с файлами](https://github.com/mayskiychai/junior/tree/main/task5) 

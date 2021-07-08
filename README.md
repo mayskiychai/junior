@@ -50,7 +50,7 @@
 **Задача 6 "Шаблонные строки" по теме 2.5 Типы данных**
 <br>
 >Что выведет этот скрипт?
->>let name = "Ilya";
+>>let name = "Ilya";<br>
 >>alert( `hello ${1}` ); // ?<br>
 >>alert( `hello ${"name"}` ); // ?<br>
 >>alert( `hello ${name}` ); // ?<br>

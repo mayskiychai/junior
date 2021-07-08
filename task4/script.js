@@ -1,2 +1,0 @@
-let planetName,
-    curUserName;

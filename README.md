@@ -139,7 +139,17 @@
 <br>[comparison.js](https://github.com/mayskiychai/junior/blob/main/task12/comparison.js)
 <br>[папка с файлами](https://github.com/mayskiychai/junior/tree/main/task12)
 
-
+**Задача 13 "if (строка с нулём)" по теме 2.10 Условное ветвление: if, '?'**
+<br>
+>Выведется ли alert?<br>
+>>5 > 4<br>
+>>if ("0") {<br>
+>>  alert( 'Привет' );<br>
+>>}<br>
+* Решение: 
+<br>[веб-страница.html](https://mayskiychai.github.io/junior/task13/index.html)
+<br>[if.js](https://github.com/mayskiychai/junior/blob/main/task13/if.js)
+<br>[папка с файлами](https://github.com/mayskiychai/junior/tree/main/task13)
 
 
 

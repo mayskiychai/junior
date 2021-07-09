@@ -123,3 +123,23 @@
 <br>[веб-страница.html](https://mayskiychai.github.io/junior/task11/index.html)
 <br>[fix.js](https://github.com/mayskiychai/junior/blob/main/task11/fix.js)
 <br>[папка с файлами](https://github.com/mayskiychai/junior/tree/main/task11)
+
+**Задача 12 "Операторы сравнения" по теме 2.9 Операторы сравнения**
+<br>
+>Каким будет результат этих выражений?<br>
+>>5 > 4<br>
+>>"ананас" > "яблоко"<br>
+>>"2" > "12"<br>
+>>undefined == null<br>
+>>undefined === null<br>
+>>null == "\n0\n"<br>
+>>null === +"\n0\n"<br>
+* Решение: 
+<br>[веб-страница.html](https://mayskiychai.github.io/junior/task12/index.html)
+<br>[comparison.js](https://github.com/mayskiychai/junior/blob/main/task12/comparison.js)
+<br>[папка с файлами](https://github.com/mayskiychai/junior/tree/main/task12)
+
+
+
+
+

@@ -142,7 +142,6 @@
 **Задача 13 "if (строка с нулём)" по теме 2.10 Условное ветвление: if, '?'**
 <br>
 >Выведется ли alert?<br>
->>5 > 4<br>
 >>if ("0") {<br>
 >>  alert( 'Привет' );<br>
 >>}<br>
@@ -151,5 +150,12 @@
 <br>[if.js](https://github.com/mayskiychai/junior/blob/main/task13/if.js)
 <br>[папка с файлами](https://github.com/mayskiychai/junior/tree/main/task13)
 
-
+**Задача 14 "Название JavaScript" по теме 2.10 Условное ветвление: if, '?'**
+<br>
+>Используя конструкцию *if..else*, напишите код, который будет спрашивать: „Какое «официальное» название JavaScript?“
+>Если пользователь вводит «ECMAScript», то показать: «Верно!», в противном случае – отобразить: «Не знаете? ECMAScript!»
+* Решение: 
+<br>[веб-страница.html](https://mayskiychai.github.io/junior/task14/index.html)
+<br>[namejs.js](https://github.com/mayskiychai/junior/blob/main/task14/namejs.js)
+<br>[папка с файлами](https://github.com/mayskiychai/junior/tree/main/task14)
 

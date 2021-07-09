@@ -173,12 +173,12 @@
 **Задача 16 "Перепишите 'if' в '?'" по теме 2.10 Условное ветвление: if, '?'**
 <br>
 >Перепишите конструкцию if с использованием условного оператора '?':<br>
->>let result;
->>if (a + b < 4) {
->>  result = 'Мало';
->>} else {
->>  result = 'Много';
->>}
+>>let result;<br>
+>>if (a + b < 4) {<br>
+>>  result = 'Мало';<br>
+>>} else {<br>
+>>  result = 'Много';<br>
+>>}<br>
 * Решение: 
 <br>[веб-страница.html](https://mayskiychai.github.io/junior/task16/index.html)
 <br>[rewrIf1.js](https://github.com/mayskiychai/junior/blob/main/task16/rewrIf1.js)

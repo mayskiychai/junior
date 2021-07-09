@@ -159,3 +159,13 @@
 <br>[namejs.js](https://github.com/mayskiychai/junior/blob/main/task14/namejs.js)
 <br>[папка с файлами](https://github.com/mayskiychai/junior/tree/main/task14)
 
+**Задача 15 "Покажите знак числа" по теме 2.10 Условное ветвление: if, '?'**
+<br>
+>Используя конструкцию *if..else*, напишите код, который получает число через *prompt*, а затем выводит в *alert*:<br>
+>* 1, если значение больше нуля,<br>
+>* -1, если значение меньше нуля,<br>
+>* 0, если значение равно нулю.<br>
+* Решение: 
+<br>[веб-страница.html](https://mayskiychai.github.io/junior/task15/index.html)
+<br>[sign.js](https://github.com/mayskiychai/junior/blob/main/task15/sign.js)
+<br>[папка с файлами](https://github.com/mayskiychai/junior/tree/main/task15)

@@ -183,3 +183,22 @@
 <br>[веб-страница.html](https://mayskiychai.github.io/junior/task16/index.html)
 <br>[rewrIf1.js](https://github.com/mayskiychai/junior/blob/main/task16/rewrIf1.js)
 <br>[папка с файлами](https://github.com/mayskiychai/junior/tree/main/task16)
+
+**Задача 17 "Перепишите 'if..else' в '?'" по теме 2.10 Условное ветвление: if, '?'**
+<br>
+>Перепишите *if..else* с использованием нескольких операторов *'?'*.<br>
+>Для читаемости рекомендуется разбить код на несколько строк.<br>
+>>let message;<br>
+>>if (login == 'Сотрудник') {<br>
+>>&nbsp;&nbsp;message = 'Привет';<br>
+>>} else if (login == 'Директор') {<br>
+>>&nbsp;&nbsp;message = 'Здравствуйте';<br>
+>>} else if (login == '') {<br>
+>>&nbsp;&nbsp;message = 'Нет логина';<br>
+>>} else {<br>
+>>&nbsp;&nbsp;message = '';<br>
+>>}<br>
+* Решение: 
+<br>[веб-страница.html](https://mayskiychai.github.io/junior/task17/index.html)
+<br>[rewrIf2.js](https://github.com/mayskiychai/junior/blob/main/task17/rewrIf2.js)
+<br>[папка с файлами](https://github.com/mayskiychai/junior/tree/main/task17)

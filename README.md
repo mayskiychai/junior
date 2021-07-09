@@ -143,7 +143,7 @@
 <br>
 >Выведется ли alert?<br>
 >>if ("0") {<br>
->>  alert( 'Привет' );<br>
+>>&nbsp;&nbsp;alert( 'Привет' );<br>
 >>}<br>
 * Решение: 
 <br>[веб-страница.html](https://mayskiychai.github.io/junior/task13/index.html)
@@ -175,9 +175,9 @@
 >Перепишите конструкцию *if* с использованием условного оператора *'?'*:<br>
 >>let result;<br>
 >>if (a + b < 4) {<br>
->>  result = 'Мало';<br>
+>>&nbsp;&nbsp;result = 'Мало';<br>
 >>} else {<br>
->>  result = 'Много';<br>
+>>&nbsp;&nbsp;result = 'Много';<br>
 >>}<br>
 * Решение: 
 <br>[веб-страница.html](https://mayskiychai.github.io/junior/task16/index.html)

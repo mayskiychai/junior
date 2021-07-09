@@ -169,3 +169,17 @@
 <br>[веб-страница.html](https://mayskiychai.github.io/junior/task15/index.html)
 <br>[sign.js](https://github.com/mayskiychai/junior/blob/main/task15/sign.js)
 <br>[папка с файлами](https://github.com/mayskiychai/junior/tree/main/task15)
+
+**Задача 16 "Перепишите 'if' в '?'" по теме 2.10 Условное ветвление: if, '?'**
+<br>
+>Перепишите конструкцию if с использованием условного оператора '?':<br>
+>>let result;
+>>if (a + b < 4) {
+>>  result = 'Мало';
+>>} else {
+>>  result = 'Много';
+>>}
+* Решение: 
+<br>[веб-страница.html](https://mayskiychai.github.io/junior/task16/index.html)
+<br>[rewrIf1.js](https://github.com/mayskiychai/junior/blob/main/task16/rewrIf1.js)
+<br>[папка с файлами](https://github.com/mayskiychai/junior/tree/main/task16)

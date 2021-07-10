@@ -180,7 +180,6 @@
 >>&nbsp;&nbsp;result = 'Много';<br>
 >>}<br>
 * Решение: 
-<br>[веб-страница.html](https://mayskiychai.github.io/junior/task16/index.html)
 <br>[rewrIf1.js](https://github.com/mayskiychai/junior/blob/main/task16/rewrIf1.js)
 <br>[папка с файлами](https://github.com/mayskiychai/junior/tree/main/task16)
 

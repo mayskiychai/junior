@@ -198,6 +198,5 @@
 >>&nbsp;&nbsp;message = '';<br>
 >>}<br>
 * Решение: 
-<br>[веб-страница.html](https://mayskiychai.github.io/junior/task17/index.html)
 <br>[rewrIf2.js](https://github.com/mayskiychai/junior/blob/main/task17/rewrIf2.js)
 <br>[папка с файлами](https://github.com/mayskiychai/junior/tree/main/task17)
